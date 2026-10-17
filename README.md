@@ -29,3 +29,5 @@ Run the attendance tests:
 ## Note
 These scripts test sample Python functions. They are
 not integrated with a real AttendX application.
+
+Updated directly on GitHub for pull demonstration.
